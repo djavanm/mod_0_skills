@@ -1,0 +1,9 @@
+Class: Employee
+
+Job title (string)
+Start date (datetime)
+Pay rate (float)
+
+Calculate_weekly_pay (Pay Rate * 40, total rate of pay if working full time)
+Days_worked (Subtract today's date from the date the employee worked)
+Calculate_OT_Pay_Rate (Multiple pay rate by 1.5)
