@@ -1,0 +1,9 @@
+Employee: Erin 
+
+Job title: Server
+Start Date: 04/16/19 9:00 AM
+Pay rate: 8.22
+
+328.8
+1
+12.33
