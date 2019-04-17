@@ -1,0 +1,9 @@
+Menu Item: Chicken Wings
+
+Name: Chicken Wings
+Price: 10.0
+On Sale: True
+
+.70
+True
+True, returns 8
