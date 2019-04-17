@@ -1,0 +1,9 @@
+Class: Menu Item
+
+Name (string)
+Price (float)
+On Sale (boolean)
+
+Calculate_Tax (Price x .07)
+Display_On_Blackboard (true false for Sale)
+Apply_Discount (Multiply Price x .8 if On Sale = True)
